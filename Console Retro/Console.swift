@@ -49,7 +49,7 @@ class Console {
     }
     
     func lifeCycle() -> String {
-        return "Debut: \(_start) - Fin \(_end)"
+        return "Debut : \(_start) - Fin : \(_end)"
     }
     
 }
